@@ -1,0 +1,17 @@
+.info {
+	width: 70%;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.player {
+	border: 2px solid lightblue;
+	border-radius: 5%;
+	padding: .5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 140px;
+}
